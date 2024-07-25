@@ -1,6 +1,3 @@
-Here is a README file for your Git repository:
-
----
 
 # Analyzing Negative Google Play Store Reviews using K-means Clustering and Latent Dirichlet Allocation
 
